@@ -1,0 +1,15 @@
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/bin/Debug/net5.0/TowerOfHanoi.deps.json
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/bin/Debug/net5.0/TowerOfHanoi.runtimeconfig.json
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/bin/Debug/net5.0/TowerOfHanoi.runtimeconfig.dev.json
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/bin/Debug/net5.0/TowerOfHanoi.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/bin/Debug/net5.0/ref/TowerOfHanoi.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/bin/Debug/net5.0/TowerOfHanoi.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.csprojAssemblyReference.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.AssemblyInfoInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.AssemblyInfo.cs
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.csproj.CoreCompileInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/ref/TowerOfHanoi.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/TowerOfHanoi/TowerOfHanoi/obj/Debug/net5.0/TowerOfHanoi.genruntimeconfig.cache
